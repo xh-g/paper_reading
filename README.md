@@ -1,4 +1,4 @@
-# -
+# 论文阅读
 记录我读过的论文，争取每日一更
 ## 模型决策
 - **STRUX: An LLM for Decision-Making with Structured Explanations.**[link](https://hub.baai.ac.cn/paper/7408fb0b-1137-49c1-bdcf-20623aebff09) my review:3
