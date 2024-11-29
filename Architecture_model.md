@@ -11,7 +11,7 @@
   - ![image](https://github.com/user-attachments/assets/6730e93f-79f1-42ff-9db1-70e0ce96070d)
 
 ## Decision Mamba
-- **Mamba: Linear-time sequence modeling with selective state spaces** [link](https://arxiv.org/abs/2312.00752
+- **Mamba: Linear-time sequence modeling with selective state spaces** [link](https://arxiv.org/abs/2312.00752)
 - **Decision Mamba: Reinforcement Learning via Sequence Modeling with Selective State Spaces** [link](https://arxiv.org/abs/2403.19925)
   - 首次尝试将metaformer中的token mixer替换为mamba block，验证了DM在offline RL问题中的决策可行性，但效果不如的类似架构的decision Convformer
 - **Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?** [link](https://arxiv.org/abs/2405.12094)
